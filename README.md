@@ -1,4 +1,12 @@
-# OpenAI.fm
+# OpenAI.fmtime
+Bad news: the right time doesn’t exist
+They compare themselves to others
+You’re in chapter one of your life
+but you’re comparing yourself to someone else’s chapter twenty
+They want to start perfectly
+While progress only comes
+from imperfect beginnings
+
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![NextJS](https://img.shields.io/badge/Built_with-NextJS-blue)
